@@ -1,16 +1,20 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## npm install -g create-react-app
+### `npm install -g create-react-app`
 
 Install all react js modules
 
-## create-react-app --version
+### `create-react-app --version`
 
 To check the version
 
-## create-react-app <application name>
+### `create-react-app <application name>`
 
 Create the react application
+
+### `npm install`
+
+Install all the packages specified in package.json 
 
 ## Available Scripts
 
